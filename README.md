@@ -46,7 +46,7 @@ POST	/api/members	Add a new member (with image)
 GET	/api/members	Get list of all members
 GET	/api/members/:id	Get details of a member by ID
 
-📸 Access uploaded images at: http://localhost:5000/uploads/<filename>
+ 
 
 🏃 How to Run
 ▶️ Run Backend Server
@@ -88,3 +88,7 @@ Aditya Vijay
 Adarsh Chauhan
 
 -Pentium-FSD-CT2-ASSESSMENT
+![image](https://github.com/user-attachments/assets/c1d71fcb-a67d-4d15-a0c8-62f3b8d3d54a)
+![image](https://github.com/user-attachments/assets/7505e28a-0ee4-4381-bc6c-7488ad5ff42e)
+
+
