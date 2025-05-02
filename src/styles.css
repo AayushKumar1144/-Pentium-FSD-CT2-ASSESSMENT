@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+  }
+  
+  header {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+  }
+  
+  nav a {
+    color: #fff;
+    margin: 0 1rem;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  }
+  
+  button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 0.5rem;
+  }
+  
+  button:hover {
+    background: #45a049;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="file"] {
+    display: block;
+    width: 100%;
+    padding: 0.7rem;
+    margin: 0.5rem 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .member-card {
+    background: #fafafa;
+    padding: 1rem;
+    margin: 1rem 0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .member-card img {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .member-card h3 {
+    margin: 0;
+  }
+  .homepage {
+    background: linear-gradient(135deg, #a8e063, #56ab2f);
+    color: #fff;
+    padding: 4rem;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+  }
+  
+  .homepage h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .homepage p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .homepage button {
+    background: #fff;
+    color: #4CAF50;
+    font-weight: bold;
+  }
+  
+  .homepage button:hover {
+    background: #f1f1f1;
+  }
+  .homepage.container {
+    background: linear-gradient(135deg, #a8e063, #56ab2f);
+    color: #16da30;
+  }
+  body {
+    background: linear-gradient(135deg, #134e70, #0a1b54);
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+  }
+  
+  
+  
